@@ -3,7 +3,7 @@ body {
 }
 
 header {
-	background: #BBBBBB;
+	background: #9a9ac8;
 	padding: 20px 0;
 }
 
@@ -166,7 +166,7 @@ td, th {
 
 .principal {
 	padding: 3em 0;
-	background: #ffffff;
+	background: #fcfcfc;
 	width: 940px;
 	margin: 0 auto;
 }
@@ -191,7 +191,7 @@ td, th {
 
 .mapa {
 	padding: 3em 0;
-	background: linear-gradient(#FEFEFE, #888888);
+	background: linear-gradient(#ffffff, #6e6e8e);
 }
 
 .mapa-conteudo {
